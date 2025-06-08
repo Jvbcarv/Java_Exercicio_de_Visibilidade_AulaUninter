@@ -1,6 +1,7 @@
 Programação Orientada a Objetos (POO) com Java – Visibilidade (modificadores de acesso)<br>
 
-Exercício: Controle de Acesso em uma Classe de Funcionário<br>
+Exercício: Controle de Acesso em uma Classe de Funcionário<br><br>
+
 Objetivo:<br>
 Praticar o uso de modificadores de acesso (private, public, protected e default) em Java.<br>
 
